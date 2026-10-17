@@ -1,0 +1,11 @@
+{
+    "budget": 1000.0,
+    "expenses": [
+        {
+            "date": "2026-10-17 02:57",
+            "amount": 2000.0,
+            "category": "Food",
+            "description": "grocsnacks"
+        }
+    ]
+}
